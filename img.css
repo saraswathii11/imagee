@@ -1,0 +1,15 @@
+body{
+text-align: center;
+margin-top: 100px;
+background-color: rgb(233, 240, 223);
+height: 2px;
+}
+h1{
+color: rgb(46, 117, 180);
+margin-bottom: 60px;
+}
+#logo{
+padding: 30px;
+width:500px;
+height:700px;
+}
